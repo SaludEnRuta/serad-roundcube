@@ -1,0 +1,15 @@
+{
+    "name": "theismael12/saludenruta",
+    "type": "roundcube-skin",
+    "description": "Salud en Ruta Mail: skin de Roundcube basado en Elastic",
+    "homepage": "https://github.com/TheIsmael12/serad-roundcube",
+    "license": "CC-BY-SA-3.0",
+    "require": {
+        "roundcube/plugin-installer": ">=0.3.0"
+    },
+    "extra": {
+        "roundcube": {
+            "min-version": "1.7.0"
+        }
+    }
+}
